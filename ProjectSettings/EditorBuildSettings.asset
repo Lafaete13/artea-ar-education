@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 8271223608595dd4fbd72455c36dbc1b
+  - enabled: 1
+    path: Assets/Scenes/ARTEA_APP.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: fe1737f7a69cf3247bf4cc851a0ffe80, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f2b1e7405b0e8364bb1a7bdc44c109c3, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 182318e8c56b61a47ab5064082143d9a, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 7e719f8305f93ef4fbdfdffc199bd6a9, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 97cbc686e5b945944a4460935cc1fb07, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 15ab9225abc75a24aaf11a11d3470a8b, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 5dc4639d7bb0af54e9ebfb3ed7115efe, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ac799dacfa5054941a59d8e22e4c58aa, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 5514fe1ffb1762b4bbd8288d359f6996, type: 2}

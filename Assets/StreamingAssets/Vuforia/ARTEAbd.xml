@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="enjoada_target_scaled" size="1.000000 1.095187" />
+    <ImageTarget name="dor_cabeca" size="1.000000 1.000000" />
+    <ImageTarget name="gripado_target" size="1.000000 1.000000" />
+    <ImageTarget name="dor_garganta_target" size="1.000000 1.000000" />
+    <ImageTarget name="dor_barriga_target" size="1.000000 1.094758" />
+    <ImageTarget name="febre_target" size="1.000000 1.000000" />
+    <ImageTarget name="tranquila_target_scaled" size="1.000000 1.094412" />
+    <ImageTarget name="surpresa_target_scaled" size="1.000000 1.413121" />
+    <ImageTarget name="raiva_target_scaled" size="1.000000 1.012121" />
+    <ImageTarget name="preocupado_target_scaled" size="1.000000 1.298851" />
+    <ImageTarget name="medo_target_scaled" size="1.000000 1.219839" />
+    <ImageTarget name="feliz_target_scaled" size="1.000000 1.245000" />
+    <ImageTarget name="espantado_target_scaled" size="1.000000 1.156306" />
+    <ImageTarget name="confusa_target_scaled" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
