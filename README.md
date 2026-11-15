@@ -21,26 +21,6 @@ O módulo foi projetado focando em **acessibilidade cognitiva** e **redução de
 
 ### 1. Menu Principal
 A interface inicial do ecossistema ARTEA, que garante uma navegação direta e segura, fornecendo acesso rápido ao Módulo de Comunicação.
-<br><img src="tela_modulo (1).jpeg" width="250" alt="Tela de Módulo">
-
-### 2. Seleção de Categorias
-Permite à criança ou ao responsável escolher qual contexto de vocabulário assistivo deseja utilizar para o rastreamento em Realidade Aumentada: **Expressões, Emoções ou Saúde**.
-<br><img src="tela_categoria (2).jpeg" width="250" alt="Tela de Categoria">
-
-### 3. Integração Tangível (Realidade Aumentada)
-O núcleo do sistema. O motor gráfico identifica o marcador colado no **dodecágono físico 3D** e renderiza instantaneamente o avatar correspondente (ex: Mal-estar/Febre) sobreposto ao mundo real, acompanhado de feedback sonoro.
-<br><img src="dodecagono-avatar (3).jpeg" width="250" alt="Dodecágono com Avatar em RA">
-
-### 4. Validação e Gamificação
-Logo após a exibição do avatar em RA, o sistema dispara um quiz de múltipla escolha para validar a compreensão pedagógica da criança sobre o sentimento demonstrado.
-<br><img src="tela_gamificacao (4).jpeg" width="250" alt="Tela de Gamificação">
-
-### 5. Sistema de Feedback Interativo
-O aplicativo atua com base no reforço positivo, celebrando acertos com recompensas visuais e adotando uma abordagem de incentivo suave em caso de erro, evitando frustrações.
-<br>
-<img src="tela_acerto (5).jpeg" width="250" alt="Feedback de Acerto"> &nbsp; &nbsp; <img src="tela_erro (6).jpeg" width="250" alt="Feedback de Erro">
-### 1. Menu Principal
-A interface inicial do ecossistema ARTEA, que garante uma navegação direta e segura, fornecendo acesso rápido ao Módulo de Comunicação.
 <br><img src="prints/tela_modulo (1).jpeg" width="250" alt="Tela de Módulo">
 
 ### 2. Seleção de Categorias
